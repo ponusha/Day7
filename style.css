@@ -1,0 +1,21 @@
+*{
+    /*padding: 0;
+    margin: 0;
+    box-sizing: border-box;*/
+    background-color: rgb(161, 205, 243);
+}
+h1{
+    text-shadow: 2px 2px 2px white;
+}
+.t li{
+    color: rgb(247, 67, 97);
+}
+.u li{
+    color: brown;
+}
+.v li{
+    color: yellow;
+}
+div{
+    color: blueviolet;
+}
